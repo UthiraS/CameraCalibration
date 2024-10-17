@@ -1,4 +1,4 @@
-# RBE/CS549 Computer Vision -HW1 - AutoCalib
+# Camera Calibration using Zhang's Method
 
 
 
